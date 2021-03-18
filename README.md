@@ -35,7 +35,6 @@ And more...
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leimerc@outlook.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leimercd@gmail.com)
 
-[![Gmail](<img alt="Paypal" src="https://icon-icons.com/es/icono/skype/66795#32style=for-the-badge&logo=paypal&logoColor=white" />)](mailto:leimercd@gmail.com)
 
 
 
