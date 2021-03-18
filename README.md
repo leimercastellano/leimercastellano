@@ -26,22 +26,13 @@ I love programming especially in java, I also like science, cutting-edge technol
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
-
 </br>
-[![Prueba](https://github-readme-stats.vercel.app/api/top-langs/?username={leimercastellano}&theme=blue-green)](https://github.com/leimercastellano)
-
-</br>
-[![Prueba](https://github-readme-stats.vercel.app/api?username={leimercastellano}&theme=blue-green)](https://github.com/leimercastellano)
-
-
-</br>
-
-
-
 And more...
 
 ## Find me at:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leimercastellano/)
 </br>
+
 ##Contact:
+</br>
 [![Outook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](leimerc@outlook.com)
