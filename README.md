@@ -28,15 +28,19 @@ I love programming especially in java, I also like science, cutting-edge technol
 
 
 </br>
-[![Prueba](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)]()
+[![Prueba](https://github-readme-stats.vercel.app/api/top-langs/?username={leimercastellano}&theme=blue-green)]()
 
 </br>
-[![Prueba](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)]()
+[![Prueba](https://github-readme-stats.vercel.app/api?username={leimercastellano}&theme=blue-green)]()
+
+
+</br>
+
+
 
 And more...
 
 ## Find me at:
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 ##Contact:
 [![Outook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](leimerc@outlook.com)
