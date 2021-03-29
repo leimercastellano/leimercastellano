@@ -1,7 +1,7 @@
 # Hello, my name is Leimer Castellano
 ### Java Developer 
 
-I'm a programming student and since 2018 started programming.
+I'm a programming student and since 2018 started programming.   <br>
 I love programming especially in java, I also like science, cutting-edge technology and 0development of applications with all their constant evolutions.
 
 
