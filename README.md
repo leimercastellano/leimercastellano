@@ -1,8 +1,9 @@
-# Hello, my name is Leimer Castellano
-### Java Developer 
+# Welcome to my profile
+## Hello, im Leimer Castellano
+### Software Devloper
 
-I'm a programming student and since 2018 started programming.   <br>
-I love programming especially in java, I also like science, cutting-edge technology and 0development of applications with all their constant evolutions.
+I started programming in 2018.  <br>
+I have developed my skills mainly in java and android.
 
 
 ## Skills:
@@ -24,11 +25,6 @@ And more...
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-</br>
-
-## Contact me:
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leimerc@outlook.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leimercd@gmail.com)
 
 
 
