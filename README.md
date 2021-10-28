@@ -2,7 +2,7 @@
 ## Hello, im Leimer Castellano
 ### Software Developer
 
-I started programming in 2018 and i have developed my skills mainly in java and android. </br>
+I started programming in 2018 and I have developed my skills mainly in java and android. </br>
 
 ## Skills:
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](#)
